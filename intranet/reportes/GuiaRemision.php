@@ -39,7 +39,7 @@
 		document.getElementById("imprimir").innerHTML = "";
 		document.getElementById("noImprimir").innerHTML = "";
 		print();		
-		setTimeout("document.getElementById('form1').submit()", 2000);
+		setTimeout("document.getElementById('form1').submit()", 1500);
 		/*location.href="../frmGenerarFactura.php";
 		window.location="../frmGenerarFactura.php";
 		setTimeout("location.href='../frmGenerarFactura.php?totalEsc=$totalEsc&guiaRemision=$guiaRem&codC=$codComp'",2000);*/
