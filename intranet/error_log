@@ -1,0 +1,1051 @@
+[01-Jun-2010 17:04:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 27
+[01-Jun-2010 17:04:09] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[01-Jun-2010 17:04:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 35
+[01-Jun-2010 17:04:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 103
+[01-Jun-2010 17:04:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 35
+[01-Jun-2010 17:04:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 130
+[14-Jun-2010 08:30:13] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 08:30:37] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 08:44:50] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 08:46:14] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 09:44:03] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 09:44:22] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 09:45:53] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 09:45:53] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[14-Jun-2010 09:46:28] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 218
+[17-Jul-2010 09:35:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 170
+[17-Jul-2010 09:35:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 182
+[17-Jul-2010 11:23:41] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 170
+[17-Jul-2010 11:23:41] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 182
+[17-Jul-2010 14:25:25] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 170
+[17-Jul-2010 14:25:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 182
+[19-Jul-2010 16:53:14] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 46
+[19-Jul-2010 16:53:15] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 166
+[21-Jul-2010 07:58:19] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 763
+[21-Jul-2010 17:07:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 764
+[24-Jul-2010 08:12:59] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 782
+[24-Jul-2010 14:52:18] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 782
+[04-Aug-2010 07:41:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[04-Aug-2010 14:18:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[14-Aug-2010 07:41:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[14-Aug-2010 14:21:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[14-Aug-2010 14:54:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[21-Aug-2010 14:06:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[23-Aug-2010 07:35:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[30-Aug-2010 14:07:52] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[31-Aug-2010 08:04:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[31-Aug-2010 18:43:02] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 782
+[15-Sep-2010 07:39:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[04-Feb-2011 16:37:41] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[04-Feb-2011 16:37:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[16-Feb-2011 08:52:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[22-Feb-2011 10:53:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[04-Mar-2011 15:45:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 27
+[04-Mar-2011 15:45:59] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[04-Mar-2011 15:45:59] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 35
+[04-Mar-2011 15:45:59] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 375
+[04-Mar-2011 15:46:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 27
+[04-Mar-2011 15:46:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[04-Mar-2011 15:46:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 35
+[04-Mar-2011 15:46:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 375
+[12-Mar-2011 06:54:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[14-Mar-2011 07:37:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[31-Mar-2011 08:02:52] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 784
+[31-Mar-2011 08:42:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 782
+[31-Mar-2011 13:09:24] PHP Warning:  Unterminated comment starting line 147 in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:09:24] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:09:41] PHP Warning:  Unterminated comment starting line 147 in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:09:41] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:10:09] PHP Warning:  Unterminated comment starting line 147 in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:10:09] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:11:28] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:11:41] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:12:06] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:12:25] PHP Warning:  Unterminated comment starting line 581 in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 581
+[31-Mar-2011 13:12:25] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 581
+[31-Mar-2011 13:12:40] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:12:55] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:13:09] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:13:38] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:14:16] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 602
+[31-Mar-2011 13:14:43] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 370
+[31-Mar-2011 13:15:33] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 421
+[31-Mar-2011 13:15:47] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 421
+[31-Mar-2011 13:16:14] PHP Warning:  Unterminated comment starting line 147 in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:16:14] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 147
+[31-Mar-2011 13:17:04] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:17:16] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:18:13] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:18:27] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:18:45] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:20:36] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:22:18] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 498
+[31-Mar-2011 13:25:49] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:26:28] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 348
+[31-Mar-2011 13:28:03] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 392
+[31-Mar-2011 13:29:27] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 625
+[31-Mar-2011 13:29:40] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 1052
+[31-Mar-2011 13:30:24] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 1052
+[31-Mar-2011 13:30:42] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 1052
+[31-Mar-2011 13:30:53] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 51
+[31-Mar-2011 13:31:53] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 448
+[31-Mar-2011 13:41:40] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:41:51] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:44:20] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:44:40] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:45:55] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:46:44] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:46:56] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 13:52:44] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:00:34] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:01:11] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:01:37] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:02:46] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:03:57] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:04:32] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:04:53] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:05:12] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:05:19] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:05:55] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:06:48] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:07:30] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:07:44] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:08:13] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:08:50] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:09:55] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:13:02] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:25:45] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:35:21] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:39:32] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 14:43:00] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 15:18:02] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 15:22:23] PHP Parse error:  syntax error, unexpected $end in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 725
+[31-Mar-2011 15:46:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/intranet/admin.php:798) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 804
+[31-Mar-2011 15:49:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/intranet/admin.php:798) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 804
+[31-Mar-2011 16:07:24] PHP Warning:  require(../../conexion/config.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 2
+[31-Mar-2011 16:07:24] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '../../conexion/config.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 2
+[31-Mar-2011 16:13:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/intranet/admin.php:655) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 661
+[04-Apr-2011 08:36:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[04-Apr-2011 08:42:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[04-Apr-2011 08:48:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[14-Apr-2011 14:42:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[16-Jul-2011 17:20:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[22-Jul-2011 15:14:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[30-Jul-2011 07:42:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 43
+[07-Nov-2011 01:59:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[07-Nov-2011 01:59:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[07-Nov-2011 01:59:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Nov-2011 01:59:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 137
+[07-Nov-2011 01:59:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Nov-2011 01:59:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 164
+[07-Nov-2011 01:59:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[07-Nov-2011 01:59:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[07-Nov-2011 01:59:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Nov-2011 01:59:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 137
+[07-Nov-2011 01:59:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Nov-2011 01:59:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 164
+[07-Nov-2011 01:59:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[07-Nov-2011 01:59:57] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[07-Nov-2011 01:59:57] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Nov-2011 01:59:57] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 137
+[07-Nov-2011 01:59:57] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Nov-2011 01:59:57] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 164
+[08-Nov-2011 09:11:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/actaHabilitacion.php:2) in /home8/idevcom/public_html/transmarinhnos/intranet/actaHabilitacion.php on line 3
+[28-Nov-2011 12:50:19] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 43
+[10-Dec-2011 17:19:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[10-Dec-2011 17:19:48] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[10-Dec-2011 17:19:48] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[10-Dec-2011 17:19:48] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[09-Jan-2012 23:18:40] PHP Warning:  mysql_close(): 3 is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 43
+[09-Jan-2012 23:17:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:17:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:18:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:18:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:18:05] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:18:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:19:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:19:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[09-Jan-2012 23:19:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php:1) in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 2
+[20-Jan-2012 08:08:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[20-Jan-2012 15:06:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Feb-2012 15:14:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2012 13:45:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[06-Feb-2012 15:14:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Feb-2012 15:34:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Mar-2012 08:27:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-Mar-2012 10:19:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Mar-2012 16:34:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[20-Mar-2012 16:25:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[20-Mar-2012 16:51:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Mar-2012 11:10:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-Apr-2012 10:17:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[12-Apr-2012 08:09:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[12-Apr-2012 15:04:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[16-Apr-2012 08:02:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[25-Apr-2012 18:45:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Apr-2012 09:05:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Apr-2012 09:51:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-May-2012 15:02:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-May-2012 16:29:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-May-2012 16:32:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-May-2012 18:42:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[17-May-2012 16:29:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[21-May-2012 08:12:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[24-May-2012 17:02:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-May-2012 16:52:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-May-2012 10:15:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-May-2012 10:15:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-May-2012 10:16:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-May-2012 10:16:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Jun-2012 15:07:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-Jun-2012 09:34:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-Jun-2012 15:09:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Jun-2012 08:06:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[11-Jun-2012 16:28:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Jun-2012 08:29:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Jun-2012 15:08:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[21-Jun-2012 08:11:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[23-Jun-2012 16:54:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[25-Jun-2012 08:42:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Jun-2012 08:42:20] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-Jul-2012 15:09:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[11-Jul-2012 15:03:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Jul-2012 15:23:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[19-Jul-2012 15:09:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[21-Jul-2012 08:13:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[21-Jul-2012 10:19:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Jul-2012 17:09:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[27-Jul-2012 08:17:36] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[27-Jul-2012 15:07:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Aug-2012 09:08:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Aug-2012 19:20:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-Aug-2012 15:14:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[06-Aug-2012 08:58:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[06-Aug-2012 15:03:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[08-Aug-2012 08:10:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[11-Aug-2012 14:03:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[11-Aug-2012 15:28:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[15-Aug-2012 08:23:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[15-Aug-2012 12:59:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[15-Aug-2012 15:04:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[16-Aug-2012 08:14:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Aug-2012 18:30:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Aug-2012 10:53:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Aug-2012 15:02:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Aug-2012 15:55:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Aug-2012 15:58:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[23-Aug-2012 08:10:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Aug-2012 16:10:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[27-Aug-2012 13:08:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Aug-2012 15:08:49] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-Sep-2012 08:09:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[13-Sep-2012 09:34:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[15-Sep-2012 08:51:14] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[15-Sep-2012 08:52:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[19-Sep-2012 12:14:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[21-Sep-2012 15:08:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Sep-2012 15:03:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[25-Sep-2012 11:47:55] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Sep-2012 18:18:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Oct-2012 13:55:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Oct-2012 10:37:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-Oct-2012 08:38:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[06-Oct-2012 15:10:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[07-Oct-2012 16:03:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[08-Oct-2012 11:25:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[08-Oct-2012 13:04:39] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[09-Oct-2012 17:39:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Oct-2012 11:52:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Oct-2012 16:08:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[17-Oct-2012 10:45:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[17-Oct-2012 16:56:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[17-Oct-2012 18:33:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[25-Oct-2012 15:11:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Oct-2012 14:47:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Oct-2012 20:26:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-Oct-2012 10:55:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-Oct-2012 10:56:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-Oct-2012 14:54:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-Oct-2012 08:05:10] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-Oct-2012 08:45:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-Oct-2012 15:21:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-Nov-2012 15:17:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[07-Nov-2012 15:10:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[09-Nov-2012 14:47:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Nov-2012 12:15:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Nov-2012 15:05:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[12-Nov-2012 08:45:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[12-Nov-2012 11:21:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[13-Nov-2012 08:06:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[16-Nov-2012 14:43:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[16-Nov-2012 15:02:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[17-Nov-2012 15:11:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Nov-2012 10:52:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Nov-2012 17:08:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[19-Nov-2012 15:08:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Nov-2012 16:35:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[22-Nov-2012 16:35:23] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[22-Nov-2012 16:35:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[22-Nov-2012 16:35:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 796
+[23-Nov-2012 08:08:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[23-Nov-2012 16:02:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-Nov-2012 15:36:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-Nov-2012 15:36:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Dec-2012 09:37:32] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Dec-2012 08:48:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Dec-2012 11:08:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[06-Dec-2012 15:06:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 157
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 171
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 186
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 224
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 240
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 309
+[07-Dec-2012 16:02:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[07-Dec-2012 16:02:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[07-Dec-2012 16:02:53] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:53] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[07-Dec-2012 16:02:53] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[07-Dec-2012 16:02:53] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[08-Dec-2012 15:04:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Dec-2012 15:08:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[14-Dec-2012 08:14:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[14-Dec-2012 14:23:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[16-Dec-2012 08:22:33] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[18-Dec-2012 18:55:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[19-Dec-2012 18:28:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[23-Dec-2012 08:30:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Dec-2012 09:30:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 09:30:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 09:30:55] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 09:30:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 796
+[26-Dec-2012 09:30:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 09:30:59] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 09:30:59] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 09:30:59] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 1023
+[26-Dec-2012 09:30:59] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 09:30:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 1040
+[26-Dec-2012 13:29:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 13:29:11] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 13:29:11] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 13:29:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 796
+[26-Dec-2012 17:21:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:18] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:18] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[26-Dec-2012 17:21:18] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 79
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 98
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:25] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 117
+[26-Dec-2012 17:21:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:34] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:34] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:34] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[26-Dec-2012 17:21:34] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:34] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 79
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 98
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[26-Dec-2012 17:21:38] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 117
+[28-Dec-2012 08:09:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Dec-2012 08:09:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Dec-2012 08:55:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Dec-2012 08:55:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Dec-2012 08:55:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Dec-2012 08:56:00] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[30-Dec-2012 08:20:43] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-Dec-2012 10:20:18] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-Jan-2013 17:20:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-Jan-2013 11:26:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[04-Jan-2013 11:26:37] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[04-Jan-2013 11:26:37] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[04-Jan-2013 11:26:37] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 378
+[05-Jan-2013 08:35:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-Jan-2013 08:35:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[05-Jan-2013 15:09:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[07-Jan-2013 08:39:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[09-Jan-2013 15:06:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[10-Jan-2013 11:34:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (111) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 888
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 946
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 963
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 970
+[12-Jan-2013 14:33:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:29] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:29] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[12-Jan-2013 14:33:29] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:29] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[12-Jan-2013 14:33:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:36] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[12-Jan-2013 14:33:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[12-Jan-2013 14:33:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[12-Jan-2013 14:33:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 79
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 98
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[12-Jan-2013 14:33:46] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 117
+[14-Jan-2013 15:06:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[16-Jan-2013 15:05:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[17-Jan-2013 08:57:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[17-Jan-2013 08:57:58] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[17-Jan-2013 08:57:58] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[17-Jan-2013 08:57:58] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 378
+[18-Jan-2013 18:20:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[18-Jan-2013 18:20:52] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[18-Jan-2013 18:20:52] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[18-Jan-2013 18:20:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 800
+[22-Jan-2013 08:11:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[22-Jan-2013 11:14:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[24-Jan-2013 08:09:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[24-Jan-2013 12:19:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[24-Jan-2013 15:20:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[24-Jan-2013 17:29:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Jan-2013 08:10:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[27-Jan-2013 08:42:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Jan-2013 15:05:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[28-Jan-2013 15:05:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[29-Jan-2013 14:20:34] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[31-Jan-2013 08:06:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Feb-2013 08:08:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Feb-2013 08:08:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[01-Feb-2013 16:09:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-Feb-2013 13:42:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-Feb-2013 13:42:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-Feb-2013 17:05:40] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[02-Feb-2013 19:34:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:34:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:34:26] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:34:26] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:34:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:34:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:34:47] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:34:47] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:35:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:35:31] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:35:31] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:35:31] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:35:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:35:51] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:35:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:35:51] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:35:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:35:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:35:53] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:35:53] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 877
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 931
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 963
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 970
+[02-Feb-2013 19:37:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:28] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:28] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:37:28] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:28] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:37:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:39] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:39] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:39] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:37:39] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:39] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:37:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:49] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:49] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:49] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:37:49] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:49] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:37:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:37:59] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:37:59] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:59] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:37:59] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:37:59] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:45:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:45:09] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:45:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:45:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 79
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 98
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:16] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 117
+[02-Feb-2013 19:45:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:45:23] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:45:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:45:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:23] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:45:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:45:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:45:32] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:45:32] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:47:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:47:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:47:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:47:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:47:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:47:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 137
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 164
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:51:36] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 185
+[02-Feb-2013 19:52:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:52:09] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:52:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:52:09] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:09] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 79
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 98
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:17] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarViaje.php on line 117
+[02-Feb-2013 19:52:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:52:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:52:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:35] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:52:35] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:52:35] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:53:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:53:02] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:53:02] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:53:02] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:53:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:53:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:53:17] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:53:17] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:53:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:53:18] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:53:18] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:53:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:53:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:53:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:53:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:53:24] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:56:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:56:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:56:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:56:05] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 19:56:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:56:05] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 19:57:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:57:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:57:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:57:05] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 888
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 946
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 963
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 19:57:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 19:57:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 970
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 157
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 171
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 186
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 224
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 240
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:01:42] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 309
+[02-Feb-2013 20:01:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:01:51] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:01:51] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 157
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 171
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 186
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 224
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 240
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:01] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarComprobante.php on line 309
+[02-Feb-2013 20:02:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:02:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:02:04] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:04] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 20:02:04] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:04] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 20:02:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:02:18] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:02:18] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 441
+[02-Feb-2013 20:02:18] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:02:18] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/formRegistrarArticulo.php on line 518
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 888
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 946
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 963
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:04:12] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:04:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php:30) in /home8/idevcom/public_html/transmarinhnos/intranet/admin.php on line 970
+[02-Feb-2013 20:04:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[02-Feb-2013 20:04:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[02-Feb-2013 20:04:25] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[02-Feb-2013 20:04:25] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 408
+[03-Feb-2013 08:22:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 28
+[03-Feb-2013 08:22:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 29
+[03-Feb-2013 08:22:56] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home8/idevcom/public_html/transmarinhnos/conexion/baseDatos.php on line 36
+[03-Feb-2013 08:22:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:36:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 11:36:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 11:37:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 11:37:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 11:45:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:45:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:01] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:11] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:48] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:46:50] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:50:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 11:50:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 11:51:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 11:51:02] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 11:51:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 11:51:17] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 11:51:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 11:51:42] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 11:52:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:52:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:52:26] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 11:52:35] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/ajaxManejador.php on line 489
+[03-Feb-2013 12:04:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 12:04:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 12:05:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 12:05:08] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 12:07:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 12:07:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[03-Feb-2013 12:08:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 49
+[03-Feb-2013 12:08:28] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[04-Feb-2013 11:00:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home8/idevcom/public_html/transmarinhnos/intranet/reportMercaderia.php on line 112
+[26-Jan-2016 18:33:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Jan-2016 18:33:43 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Jan-2016 19:41:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Jan-2016 06:37:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Jan-2016 06:37:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Jan-2016 10:09:36 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Jan-2016 13:34:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Jan-2016 16:49:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Jan-2016 20:21:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Jan-2016 09:22:23 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Jan-2016 15:10:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Jan-2016 16:53:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Jan-2016 17:31:07 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Jan-2016 21:52:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Jan-2016 21:52:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 06:34:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 06:51:34 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 07:19:17 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 10:32:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 13:01:01 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 15:20:51 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 16:32:17 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 16:32:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Jan-2016 18:31:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Jan-2016 09:41:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Jan-2016 09:41:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Jan-2016 16:40:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Jan-2016 16:44:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Jan-2016 19:40:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[31-Jan-2016 07:17:02 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[31-Jan-2016 13:48:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 13:09:19 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 15:51:54 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 15:51:55 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 16:57:54 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 16:57:55 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 17:46:32 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Feb-2016 17:46:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 07:19:43 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 07:19:49 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 13:18:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 13:18:26 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 13:23:44 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 13:23:44 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 17:27:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Feb-2016 17:49:26 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Feb-2016 07:04:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Feb-2016 08:21:41 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Feb-2016 10:48:09 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Feb-2016 10:50:42 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 05:59:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 06:37:56 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 06:37:57 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 10:31:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 13:19:30 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 13:19:30 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 14:51:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 16:51:34 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 16:51:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 17:02:56 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Feb-2016 17:49:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 06:14:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 10:29:23 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 11:23:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 13:03:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 13:03:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 19:21:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Feb-2016 19:21:49 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[06-Feb-2016 06:14:22 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[06-Feb-2016 17:29:58 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Feb-2016 15:38:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Feb-2016 19:25:21 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Feb-2016 20:05:33 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Feb-2016 20:05:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Feb-2016 09:59:26 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Feb-2016 09:59:26 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Feb-2016 18:40:05 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Feb-2016 18:40:05 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Feb-2016 19:03:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Feb-2016 19:14:58 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Feb-2016 19:49:41 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Feb-2016 19:49:43 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 06:15:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 07:02:02 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 07:08:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 07:08:17 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 07:19:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 16:28:06 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 16:52:57 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 18:41:55 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Feb-2016 20:02:21 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 06:14:56 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 06:14:57 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 07:00:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 07:00:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 17:00:55 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 18:10:42 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Feb-2016 19:20:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[13-Feb-2016 10:59:45 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[13-Feb-2016 11:07:51 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[13-Feb-2016 12:38:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[14-Feb-2016 07:11:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[14-Feb-2016 08:13:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[14-Feb-2016 13:36:47 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[15-Feb-2016 06:05:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[15-Feb-2016 14:16:40 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[15-Feb-2016 18:54:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 06:19:19 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 06:29:42 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 13:15:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 18:19:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 18:49:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 19:41:00 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 20:46:05 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Feb-2016 20:46:07 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[17-Feb-2016 07:04:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[17-Feb-2016 13:05:34 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[17-Feb-2016 16:28:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[18-Feb-2016 12:46:34 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[18-Feb-2016 15:24:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[18-Feb-2016 16:51:04 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Feb-2016 07:07:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Feb-2016 12:10:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Feb-2016 12:10:17 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Feb-2016 14:09:28 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Feb-2016 17:47:19 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Feb-2016 20:15:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 06:34:45 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 06:34:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 12:16:28 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 13:13:21 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 13:15:33 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 16:11:21 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Feb-2016 17:15:00 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 06:13:43 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 13:12:21 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 13:19:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 13:19:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 14:01:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 16:04:42 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 17:15:04 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Feb-2016 17:43:55 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[23-Feb-2016 06:19:44 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[23-Feb-2016 17:06:28 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[24-Feb-2016 06:22:41 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[24-Feb-2016 10:40:33 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[24-Feb-2016 16:26:55 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[24-Feb-2016 16:47:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[24-Feb-2016 16:47:40 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 07:12:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 07:21:18 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 10:23:54 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 11:01:51 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 13:09:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 13:09:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 18:29:00 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Feb-2016 20:43:43 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 07:51:14 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 10:37:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 12:51:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 12:52:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 12:58:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 13:03:51 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Feb-2016 20:03:36 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Feb-2016 09:50:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Feb-2016 13:07:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Feb-2016 16:49:45 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Feb-2016 16:49:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Feb-2016 07:05:20 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Feb-2016 13:39:53 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Feb-2016 18:24:15 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Feb-2016 06:14:45 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Feb-2016 20:51:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Feb-2016 20:51:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Mar-2016 06:38:47 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Mar-2016 18:11:28 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Mar-2016 19:47:22 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Mar-2016 13:04:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Mar-2016 13:04:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Mar-2016 17:02:43 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 06:25:11 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 13:09:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 19:23:36 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 20:42:23 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 20:42:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 20:43:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Mar-2016 20:43:44 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Mar-2016 07:47:45 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Mar-2016 07:47:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Mar-2016 06:41:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Mar-2016 08:57:17 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Mar-2016 13:00:23 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Mar-2016 13:10:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[06-Mar-2016 07:38:57 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[06-Mar-2016 14:05:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Mar-2016 06:58:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Mar-2016 16:30:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Mar-2016 16:32:17 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Mar-2016 18:53:58 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Mar-2016 19:26:07 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Mar-2016 19:27:00 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 10:31:15 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 13:00:09 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 13:00:09 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 13:21:26 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 15:03:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 15:03:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 19:47:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Mar-2016 20:26:24 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Mar-2016 07:10:49 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Mar-2016 07:28:33 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[09-Mar-2016 13:09:30 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Mar-2016 06:22:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Mar-2016 09:45:28 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Mar-2016 10:36:13 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Mar-2016 13:11:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[10-Mar-2016 19:02:40 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Mar-2016 06:20:31 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Mar-2016 06:56:47 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Mar-2016 06:56:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Mar-2016 12:58:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[11-Mar-2016 17:26:00 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Mar-2016 06:27:04 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Mar-2016 08:14:59 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Mar-2016 13:03:40 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[12-Mar-2016 14:33:01 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[13-Mar-2016 08:06:07 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[13-Mar-2016 14:32:45 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[14-Mar-2016 08:03:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[14-Mar-2016 14:12:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[14-Mar-2016 15:34:31 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[15-Mar-2016 17:14:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[15-Mar-2016 20:48:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 08:04:28 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 08:36:44 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 10:32:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 14:03:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 14:03:52 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 16:26:19 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 16:26:19 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[16-Mar-2016 18:06:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[17-Mar-2016 07:14:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[17-Mar-2016 18:40:31 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[18-Mar-2016 07:22:06 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[18-Mar-2016 14:15:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Mar-2016 08:09:33 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Mar-2016 08:46:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[19-Mar-2016 08:46:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[20-Mar-2016 08:15:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[21-Mar-2016 07:24:15 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[21-Mar-2016 13:36:36 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[21-Mar-2016 19:23:08 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Mar-2016 13:57:46 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[22-Mar-2016 19:58:22 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[23-Mar-2016 07:19:47 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[23-Mar-2016 14:08:40 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[23-Mar-2016 15:32:22 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[23-Mar-2016 19:44:47 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[24-Mar-2016 15:10:37 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[25-Mar-2016 17:41:51 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Mar-2016 06:51:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Mar-2016 06:58:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Mar-2016 06:58:16 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Mar-2016 11:51:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[26-Mar-2016 13:55:51 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Mar-2016 06:45:39 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Mar-2016 08:14:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[27-Mar-2016 14:51:32 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 13:57:20 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 17:46:09 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 18:24:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 19:50:56 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 19:51:10 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 21:35:41 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[28-Mar-2016 21:46:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Mar-2016 08:03:21 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Mar-2016 08:03:22 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Mar-2016 14:05:34 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[29-Mar-2016 17:05:38 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Mar-2016 07:41:13 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[30-Mar-2016 14:07:06 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[31-Mar-2016 07:35:59 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[31-Mar-2016 14:00:59 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[31-Mar-2016 19:12:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Apr-2016 07:25:04 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Apr-2016 11:10:20 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Apr-2016 14:12:05 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[01-Apr-2016 14:45:19 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Apr-2016 08:37:50 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Apr-2016 10:49:20 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[02-Apr-2016 14:43:30 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Apr-2016 08:17:35 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[03-Apr-2016 14:33:12 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Apr-2016 07:13:36 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Apr-2016 07:45:27 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[04-Apr-2016 13:56:06 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Apr-2016 07:33:29 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Apr-2016 11:15:01 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Apr-2016 15:24:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[05-Apr-2016 18:35:26 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[06-Apr-2016 07:18:25 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[06-Apr-2016 15:25:18 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 07:33:48 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 10:37:03 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 14:12:04 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 14:12:05 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 17:41:14 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 17:41:15 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 17:52:41 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[07-Apr-2016 17:56:49 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67
+[08-Apr-2016 07:14:14 America/Denver] PHP Notice:  Undefined index: usuario in /home8/idevcom/public_html/transmarinhnos/intranet/administrador.php on line 67

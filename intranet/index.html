@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>:: Transportes Marin Hermanos ::</title>
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Estilo1 {	color: #FFFFFF;
+	font-style: italic;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+<body onload="fijarFoco()">
+<script language="javascript" type="text/javascript">
+
+	function fijarFoco()
+	{
+		document.getElementById("textUsuario").focus();
+	}
+	
+	function manejo()
+	{
+		usuario = document.getElementById('textUsuario').value;
+		clave = document.getElementById('textClave').value;
+		
+		if(usuario.length==0 || clave.length==0)
+		{
+			alert("¡ Debes ingresar un usuario y una clave !");
+			return;
+		}
+		document.getElementById('formLoggeo').submit();
+	}	
+</script>
+<div id="container">
+<!-- header -->
+<div id="logo"><a href="">TRANSPORTES MARIN Y HERMANOS </a></div>
+<div id="menu">
+    <ul>
+    <li><a href="../index.html">Inicio</a></li>
+    <!--<li><a href="#"></a></li>
+    <li><a href="#"></a></li>-->
+    <li><a href="index.html" class="active">Intranet</a></li>
+    <li><a href="../contactanos.php">Contactanos</a></li>
+    <li><a href="../consejos.php">Consejos</a></li>
+    <div align="center"></div>
+    </ul>
+</div>
+<!--end header -->
+<!-- main -->
+<div id="main">
+
+<div id="text_top">
+<h1>¡ Bienvenidos a la Intranet! </h1>
+<br>
+Para poder ingresar debes tener un usuario y una contraseña; si no tienes una solicítala en la pestaña <a href="../contactanos.php">Contactanos</a>.</div>
+
+<center>
+</center>
+<div id="text_bottom">
+  <form action="admin.php" method="post" name="formLoggeo" id="formLoggeo">
+    <table width="392" height="101" border="0" align="center">
+      <tr>
+        <td width="282" height="37"><div align="justify" class="Estilo1">
+          <div align="right">Usuario:</div>
+        </div></td>
+        <td width="365"><input name="textUsuario" type="text" id="textUsuario" size="30" /></td>
+      </tr>
+      <tr>
+        <td><div align="justify" class="Estilo1">
+          <div align="right">Contraseña:</div>
+        </div></td>
+        <td><input name="textClave" type="password" id="textClave" size="30" /></td>
+      </tr>
+
+      <tr>
+        <td><div align="center">
+          <input type="hidden" name="op" value="loggin" />
+        </div></td>
+        <td><div align="left"><a href="#"><img src="../images/login.jpg" alt="Ingresar" width="27" height="22" border="0" title="Ingresar"  onclick="manejo()"/></a></div></td>
+      </tr>
+    </table>
+  </form>
+  <p>&nbsp;</p>
+  </div>
+
+</div>
+<!-- end main -->
+<!-- footer -->
+<div id="footer">
+    <div id="footer_left">&copy; Copyright 2011</div>
+    <div id="footer_right">
+    
+    <!-- Please do not change or delete these links. Read the license! Thanks. :-) -->
+    </div>
+</div>
+<!-- end footer -->
+</div>
+
+</body>
+</html>
