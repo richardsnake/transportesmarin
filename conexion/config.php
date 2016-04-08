@@ -11,8 +11,8 @@
 	define("_BASEDATOS","idevcom_tmarinh");
 	/*define("_USUARIO","idevcom_tmarinh");
 	define("_PASSWORD","tr4m4r1nh_1");*/
-	define("_USUARIO","idevcom_tmarinh");
-	define("_PASSWORD","tr4m4r1nh_1");
+	define("_USUARIO","root");
+	define("_PASSWORD","");
 	
 	function fechaFormato($fecha)
 	{
